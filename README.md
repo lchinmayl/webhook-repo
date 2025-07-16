@@ -43,4 +43,3 @@ cd webhook-repo
 
 Create .env File:-
 MONGO_URI=mongodb+srv://<username>:<encoded-password>@cluster.mongodb.net/webhooks?retryWrites=true&w=majority
-

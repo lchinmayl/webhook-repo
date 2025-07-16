@@ -1,2 +1,4 @@
 pymongo
 dotenv
+flask
+flask_cors
